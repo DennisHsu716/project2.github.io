@@ -2,7 +2,7 @@
 ## Summary 
 
 ## Environment
-![image](https://github.com/DennisHsu716/project1.github.io/blob/main/image/1.png)
+![image](https://github.com/DennisHsu716/project2.github.io/blob/main/project2/file/orcad.png)
 I used two vibration motor mean fan and 16mm MCH Ceramic Heater
 
 ## Usage
