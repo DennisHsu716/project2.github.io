@@ -9,9 +9,9 @@ Due to the rapid advancement of communication technology in recent years, commun
 I used two vibration motor mean fan and 16mm MCH Ceramic Heater
 
 ## Usage
-![image](https://github.com/DennisHsu716/project1.github.io/blob/main/image/gif/warm.gif)
+![image](https://github.com/DennisHsu716/project2.github.io/blob/main/project2/file/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-07-09%20122815.png)
 
 
 ## About future plans
-Replace the cooling and refrigeration devices with more advanced models, and design a base that can conceal the circuit board and battery, thereby enhancing the aesthetic appeal.
+The multifunctionalization and miniaturization of wireless communication products have become prominent market trends. In alignment with the evolution of wireless communication components, the focus is shifting towards high frequency, miniaturization, and modularization. In recent years, wireless communication has experienced significant growth, particularly in mainstream applications such as mobile phones, wireless local area networks, global positioning systems, Bluetooth, the Internet of Things, and wearable devices. However, in comparison to international leaders, our progress in high-frequency components and modular technology for wireless communication remains limited. Currently, the major global integrated component manufacturers are predominantly based in Japan, the United States, and Europe, including Japan's Murata, Kyocera, and TDK; America's CTS; and Europe's Bosch and CMAC. In contrast, domestic manufacturers have entered the market later, resulting in a relatively low market share on the global stage. Given that the application of wireless communication will be central to future market growth, there is a concerted effort to develop innovative high-frequency components and advanced modular technology, with the aim of capitalizing on growth opportunities in the future of wireless communication.
 
